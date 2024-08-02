@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Henrique Colling and I'm  from Brazil.</p>
+<p align="left">My name is Henrique Colling. I'm a brazilian dev.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">⌛ I've started programming around 2020<br>📚 I'm currently studying Computer Science at UNISINOS, RS - Brazil<br>🎯 Goals: to learn more and more about the art of programming</p>
+<p align="left">⌛ I've started programming around 2020<br>📚 I'm currently studying Computer Science at UNISINOS, RS - Brazil<br>🎯 Goals: to keep learning and improving my dev skills<p>
 
 ###
 
@@ -23,7 +23,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-plain.svg" height="40" alt="embeddedc logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-plain-wordmark.svg" height="40" alt="embeddedc logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -32,6 +32,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
+
+###
 
 ###
