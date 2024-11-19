@@ -11,8 +11,8 @@
 ---
 
 <p align="center">
-  <img style="display: inline-block; margin-right: 10px;" src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical" alt="GitHub Streak" />
-  <img style="display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img style="display: inline-block; margin-right: 10px;" src="https://github-readme-streak-stats.herokuapp.com/?user=hcolling&theme=radical" alt="GitHub Streak" />
+  <img style="display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hcolling&layout=compact&theme=radical" alt="Most Used Languages" />
 </p>
 
 ---
